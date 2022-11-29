@@ -13,6 +13,9 @@
 		4525B24C2936121C0098CE92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4525B24A2936121C0098CE92 /* Main.storyboard */; };
 		4525B24E2936121E0098CE92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4525B24D2936121E0098CE92 /* Assets.xcassets */; };
 		4525B2512936121E0098CE92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4525B24F2936121E0098CE92 /* LaunchScreen.storyboard */; };
+		4525B259293614ED0098CE92 /* AdvertisingContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4525B258293614ED0098CE92 /* AdvertisingContentView.swift */; };
+		4525B25F293633EF0098CE92 /* AfricanMoviesContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4525B25E293633EF0098CE92 /* AfricanMoviesContainerView.swift */; };
+		4525B261293643290098CE92 /* BasicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4525B260293643290098CE92 /* BasicView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		4525B24D2936121E0098CE92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4525B2502936121E0098CE92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4525B2522936121E0098CE92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4525B258293614ED0098CE92 /* AdvertisingContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvertisingContentView.swift; sourceTree = "<group>"; };
+		4525B25E293633EF0098CE92 /* AfricanMoviesContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricanMoviesContainerView.swift; sourceTree = "<group>"; };
+		4525B260293643290098CE92 /* BasicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				4525B2442936121C0098CE92 /* AppDelegate.swift */,
 				4525B2462936121C0098CE92 /* SceneDelegate.swift */,
 				4525B2482936121C0098CE92 /* ViewController.swift */,
+				4525B25E293633EF0098CE92 /* AfricanMoviesContainerView.swift */,
+				4525B258293614ED0098CE92 /* AdvertisingContentView.swift */,
+				4525B260293643290098CE92 /* BasicView.swift */,
 				4525B24A2936121C0098CE92 /* Main.storyboard */,
 				4525B24D2936121E0098CE92 /* Assets.xcassets */,
 				4525B24F2936121E0098CE92 /* LaunchScreen.storyboard */,
@@ -139,7 +148,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				4525B2492936121C0098CE92 /* ViewController.swift in Sources */,
+				4525B259293614ED0098CE92 /* AdvertisingContentView.swift in Sources */,
 				4525B2452936121C0098CE92 /* AppDelegate.swift in Sources */,
+				4525B261293643290098CE92 /* BasicView.swift in Sources */,
+				4525B25F293633EF0098CE92 /* AfricanMoviesContainerView.swift in Sources */,
 				4525B2472936121C0098CE92 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
